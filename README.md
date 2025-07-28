@@ -21,24 +21,7 @@ I love solving real-world problems through code — especially in sectors like *
 - **Languages**: JavaScript, TypeScript, HTML5, CSS3
 - **Frameworks**: React, React Native, Tailwind CSS.
 - **Tools**: Git, GitHub, VS Code.
-- **Others**:LocalStorage, Responsive Design, REST APIs
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🎓 Student Result Calculator](https://github.com/kamaldeen30a/student-result-calculator) | A React app to calculate and store student results with export and print features. | React, Tailwind CSS |
-| [🌾 Crop Yield & Expense Tracker](https://github.com/Kamaldeen30a/crop-tracker) | Tracks crop data, expenses, and yield for Nigerian farmers. | React, LocalStorage, CSV Export |
-| [📚 Assignment Submission App](https://github.com/your-username/assignment-app) | Teachers post assignments, students submit — with a clean UI. | React, React Router, Tailwind CSS |
-
-> 🔗 *More projects coming soon. Stay tuned!*
-
----
-
-
----
+- **Others**:LocalStorage, Responsive Design.
 
 ### 📫 Connect With Me
 
